@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Implementation of RSA with python
+Creating an implementation of the RSA cryptography algorithm using Python.
 <br />
 
 
@@ -19,7 +19,7 @@ Implementation of RSA with python
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/gallery/FehiSxQ" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
