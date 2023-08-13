@@ -29,6 +29,9 @@ Creating an implementation of the RSA cryptography algorithm using Python.
 Second, I implemented the same functions and signature using the RSA module  <br/>
 <img src="img/Screenshot 2023-08-13 144021.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<br />
+{Link to Code](https://github.com/akhkusu/RSA-with-python/blob/628bc744e682e978b5be5ab7da7113ac78155a63/without_RSA_module.py)
+<br />
 </p>
 
 <!--
