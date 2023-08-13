@@ -18,7 +18,8 @@ Creating an implementation of the RSA cryptography algorithm using Python.
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+ First, I implemented the basic functions of the RSA cryptography algorithm, such as public and private key generations, encryption, and decryption:
+ <br/>
 <img src="Screenshot 2023-08-12 142542.png" height="80%" width="80%" alt="without_rsa_module"/>
 <br />
 <br />
@@ -28,6 +29,10 @@ Select the disk:  <br/>
 <br />
 Enter the number of passes: <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<br />
+[Link to Code](https://github.com/akhkusu/RSA-with-python/blob/5d6532f54762e5eb0d501162d01701c803a7c224/without_RSA_module.py)
 <br />
 <br />
 Confirm your selection:  <br/>
