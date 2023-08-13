@@ -19,7 +19,7 @@ Creating an implementation of the RSA cryptography algorithm using Python.
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/gallery/FehiSxQ" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/FehiSxQ" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
