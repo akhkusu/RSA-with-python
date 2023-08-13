@@ -20,7 +20,7 @@ Creating an implementation of the RSA cryptography algorithm using Python.
 <p align="center">
  First, I implemented the basic functions of the RSA cryptography algorithm, such as public and private key generations, encryption, and decryption without using RSA module:
  <br/>
-<img src="Screenshot 2023-08-12 142542.png" height="80%" width="80%" alt="without_rsa_module"/>
+<img src="img/Screenshot 2023-08-12 142542.png" height="80%" width="80%" alt="without_rsa_module"/>
 <br />
 <br />
 Select the disk:  <br/>
